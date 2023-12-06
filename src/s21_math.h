@@ -1,4 +1,3 @@
-#include <math.h>  // !!!!!!!!!!!!
 #include <stdio.h>
 
 #define S21_INF __builtin_huge_valf()
